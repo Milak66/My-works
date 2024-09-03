@@ -1,0 +1,52 @@
+.heading {
+    display: flex;
+    justify-content: flex-end;
+}
+.redBtn {
+    background-color: red;
+}
+.blueBtn {
+    background-color: blue;
+}
+.greenBtn {
+    background-color: green;
+}
+.yellowBtn {
+    background-color: yellow;
+}
+.selectedRed {
+    color: red;
+}
+.selectedBlue {
+    color: blue;
+}
+.selectedGreen {
+    color: green;
+}
+.selectedYellow {
+    color: yellow;
+}
+hr {
+    padding: 5px;
+    background-color: black;
+}
+.testResult {
+    display: flex;
+    justify-content: center;
+}
+.ending {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-right: 80px;
+}
+.endOfTest {
+    list-style-type: none;
+    font-size: 40px;
+    background-color: green;
+    width: 600px;
+    border-radius: 30px;
+}
+.btn4 {
+    margin-left: 1200px;
+}
